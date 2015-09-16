@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:26.077090
+#+DATE: 2015-08-30 20:20:26.491781
 #+TITLE: 大乘四法經
 #+PROPERTY: CBETA_ID T17n0772
 #+PROPERTY: ID KR6i0469
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 772
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0469_T_000-0708b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0469_T_001-0708b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.772¶
-
- 《大乘四法經》¶
+No. 772¶
+《大乘四法經》¶
 ¶
-大唐天竺三藏地婆訶羅譯¶
+唐中天竺三藏地婆訶羅奉勅於東太原寺初譯¶
 
 如是我聞：
 
@@ -33,7 +32,7 @@ No.772¶
 盡壽，乃至逢遇喪命因緣，不得棄捨堪忍愛¶
 樂；諸苾芻、菩薩盡壽，乃至逢遇喪命因緣，¶
 必定不得捨阿練若。諸苾芻！如是四法，菩薩¶
-盡壽，常應堅持，寧喪身命而不捨離。」
+盡壽，常應堅持，寧喪身命而不棄捨。」
 
 爾時
 <pb:KR6i0469_T_001-0708c>¶
@@ -51,7 +50,7 @@ No.772¶
 #+END_VERSE
 」¶
 
-「諸明慧者修行此法，速能超出眾魔羅網，¶
+「諸明慧者修行此法，速能超出眾魔羂網，¶
 疾證無上正等菩提。」
 
 時薄伽梵說此經已，諸¶
